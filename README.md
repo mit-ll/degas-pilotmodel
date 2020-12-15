@@ -8,6 +8,12 @@ The Pilot Model is intended to be used in conjunction with a decision support al
 Before using DEGAS, ensure that this folder and any sub-folders are added to the MATLAB path. Directions on how to do this
 can be found in the *Quickstart* section of the DEGAS README located in the DEGAS folder.
 
+## Citation
+
+Please use this DOI number reference when citing the software:
+
+[![DOI](https://zenodo.org/badge/320663597.svg)](https://zenodo.org/badge/latestdoi/320663597)
+
 ## Distribution Statement
 
 DISTRIBUTION STATEMENT A. Approved for public release. Distribution is unlimited.
